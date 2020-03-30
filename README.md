@@ -8,7 +8,7 @@ Essa pizzaria faz a venda de pizzas e há uma variedade de funcionários:
 - copeiro
 - pizzaiolo
 - motoboy
-- atendente (caixa)
+- caixa
 - garçom
 
 O copeiro é responsável por produzir sucos e drinks e fica localizado na cozinha, os pizzaiolos produzem as pizzas, o motoboy realiza as entregas, o caixa é responsável pelo
