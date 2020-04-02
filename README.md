@@ -14,13 +14,13 @@ Essa pizzaria faz a venda de pizzas e há uma variedade de funcionários:
 O copeiro é responsável por produzir sucos e drinks e promove a limpeza e a higienização da copa e da cozinha. <br>
 os pizzaiolos produzem as pizzas, <br>
 o motoboy realiza as entregas, <br>
-o caixa é responsável pelogerenciamento do caixa e do aplicativo de pedidos. <br>
+o caixa é responsável pelo gerenciamento do caixa e do aplicativo de pedidos. <br>
 O garçom é responsável pelo atendimento e anota o pedido dos clientes. <br>
 Os funcionários recebem um salário mensal. <br>
 O app de pedidos possibilita o cliente a dar uma nota aos serviços do restaurante. <br>
 
 1 copeiro <br>
 2 pizzaiolos <br>
-1 motoboy <br>
+2 motoboy <br>
 1 atendente <br>
 1 garçom <br>
