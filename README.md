@@ -21,6 +21,6 @@ O app de pedidos possibilita o cliente a dar uma nota aos serviços do restauran
 
 1 copeiro <br>
 2 pizzaiolos <br>
-2 motoboys <br>
+1 motoboy <br>
 1 atendente <br>
 1 garçom <br>
