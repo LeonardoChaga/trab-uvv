@@ -4,7 +4,7 @@
 
 # Pizzaria
 Uma pizzaria precisa de um modelo de banco de dados para o gerenciamento das vendas das pizzas, catalogar os funcionários e medir o rendimento do estabelecimento utilizando a avaliação dos clientes: <br>
-Essa pizzaria faz a venda de pizzas e há uma variedade de funcionários:
+Nessa pizzaria há uma variedade de funcionários:
 - copeiro
 - pizzaiolo
 - motoboy
