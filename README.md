@@ -12,7 +12,7 @@ Nessa pizzaria há uma variedade de funcionários:
 - garçom
 
 O copeiro é responsável por produzir sucos e drinks e promove a limpeza e a higienização da copa e da cozinha. <br>
-os pizzaiolos produzem as pizzas, <br>
+os pizzaiolos produzem as pizzas 1 deles abre a massa e o outro é responsável pelo recheio, <br>
 o motoboy realiza as entregas, <br>
 o caixa é responsável pelo gerenciamento do caixa e do aplicativo de pedidos. <br>
 O garçom é responsável pelo atendimento e anota o pedido dos clientes. <br>
