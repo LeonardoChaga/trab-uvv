@@ -16,8 +16,8 @@ os pizzaiolos produzem as pizzas. <b>1 deles abre a massa, e o outro é respons�
 o motoboy realiza as entregas, <br>
 o caixa é responsável pelo <b>gerenciamento do caixa e do aplicativo de pedidos<b>. <br>
 O garçom é <b>responsável pelo atendimento e anota o pedido dos clientes<b>. <br>
-Os funcionários recebem um <b>salário mensal<b>. <br>
-O app de pedidos <b>possibilita o cliente a dar uma nota aos serviços do restaurante<b>. <br>
+Os funcionários recebem um salário mensal<b>. <br>
+O app de pedidos possibilita o cliente a dar uma nota aos serviços do restaurante<b>. <br>
   Para se fazer o pedido, o cliente deve fazer um cadastro. Nesse cadastro será mostrado as informações sobre seus pedidos, horário , valor e o nome do caixa que o atendeu.<br>
 
 Nessa pizzaria há 2 pizzaiolos, 1 copeiro, 1 motoboy, 1 caixa e 1 garçom.
