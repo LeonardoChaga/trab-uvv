@@ -18,5 +18,6 @@ o caixa é responsável pelo <b>gerenciamento do caixa e do aplicativo de pedido
 O garçom é <b>responsável pelo atendimento e anota o pedido dos clientes<b>. <br>
 Os funcionários recebem um <b>salário mensal<b>. <br>
 O app de pedidos <b>possibilita o cliente a dar uma nota aos serviços do restaurante<b>. <br>
+  Para se fazer o pedido, o cliente deve fazer um cadastro. Nesse cadastro será mostrado as informações sobre seus pedidos, horário , valor e o nome do caixa que o atendeu.<br>
 
 Nessa pizzaria há 2 pizzaiolos, 1 copeiro, 1 motoboy, 1 caixa e 1 garçom.
