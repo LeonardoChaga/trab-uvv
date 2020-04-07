@@ -19,8 +19,4 @@ O garçom é <b>responsável pelo atendimento e anota o pedido dos clientes<b>. 
 Os funcionários recebem um <b>salário mensal<b>. <br>
 O app de pedidos <b>possibilita o cliente a dar uma nota aos serviços do restaurante<b>. <br>
 
-1 copeiro <br>
-2 pizzaiolos <br>
-1 motoboy <br>
-1 atendente <br>
-1 garçom <br>
+Nessa pizzaria há 2 pizzaiolos, 1 copeiro, 1 motoboy, 1 caixa e 1 garçom.
