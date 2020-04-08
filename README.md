@@ -5,13 +5,11 @@
 # Pizzaria
 Uma pizzaria precisa de um modelo de banco de dados para o gerenciamento das vendas das pizzas, catalogar os funcionários e medir o rendimento do estabelecimento utilizando a avaliação dos clientes: <br>
 Nessa pizzaria há uma variedade de funcionários:
-- copeiro
 - pizzaiolo
 - motoboy
 - caixa
 - garçom
 
-O copeiro é responsável por produzir sucos e drinks e promove a limpeza e a higienização da copa e da cozinha. <br>
 os pizzaiolos produzem as pizzas. 1 deles abre a massa, e o outro é responsável pelo recheio, <br> 
 o motoboy realiza as entregas, <br>
 o caixa é responsável pelo gerenciamento do caixa e do aplicativo de pedidos. <br>
