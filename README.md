@@ -11,11 +11,11 @@ Nessa pizzaria há uma variedade de funcionários:
 - O motoboy realiza as entregas, <br>
 - O caixa é responsável pelo gerenciamento do caixa e do aplicativo de pedidos. <br>
 - O garçom é responsável pelo atendimento e anota o pedido dos clientes. <br>
-- Os funcionários recebem um salário mensal. <br>
-- O app de pedidos possibilita o cliente a dar uma nota aos serviços do restaurante. <br>
+ 
+Os funcionários recebem um salário mensal, e o app de pedidos possibilita o cliente a dar uma nota aos serviços do restaurante. <br>
+
   
 - <b>Cada sabor de pizza tem um número de indentificação no sistema da pizzaria</b> <br> 
   
-  Para se fazer o pedido, o cliente deve fazer um cadastro. Nesse cadastro será mostrado as informações sobre seus pedidos, horário , valor e o nome do caixa que o atendeu.<br>
-
+  Para se fazer o pedido, o cliente deve fazer um cadastro. Nesse cadastro será mostrado as informações pessoais do cliente, como o nome, n° de telefone, endereço e cpf. Nas informações das vendas estarão presentes: Valor, data , nota fiscal e o id referente ao sabor e tamanho da pizza.
 
