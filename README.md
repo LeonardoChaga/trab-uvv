@@ -7,7 +7,7 @@ Uma pizzaria precisa de um modelo de banco de dados para o gerenciamento das ven
 Nessa pizzaria há uma variedade de funcionários:
 2 pizzaiolos, 1 copeiro, 1 motoboy, 1 caixa e 1 garçom.
 
-- Os pizzaiolos produzem as pizzas. <b>1 deles abre a massa, e o outro é responsável pelo recheio, <br> 
+- Os pizzaiolos produzem as pizzas. <b1 deles abre a massa, e o outro é responsável pelo recheio>, <br> 
 - O motoboy realiza as entregas, <br>
 - O caixa é responsável pelo gerenciamento do caixa e do aplicativo de pedidos. <br>
 - O garçom é responsável pelo atendimento e anota o pedido dos clientes. <br>
