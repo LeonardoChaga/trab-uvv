@@ -14,7 +14,7 @@ Nessa pizzaria há uma variedade de funcionários:
 - Os funcionários recebem um salário mensal. <br>
 - O app de pedidos possibilita o cliente a dar uma nota aos serviços do restaurante. <br>
   
-- Cada sabor de pizza tem um número de indentificação no sistema da pizzaria <br> 
+- <b>Cada sabor de pizza tem um número de indentificação no sistema da pizzaria</b> <br> 
   
   Para se fazer o pedido, o cliente deve fazer um cadastro. Nesse cadastro será mostrado as informações sobre seus pedidos, horário , valor e o nome do caixa que o atendeu.<br>
 
