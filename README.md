@@ -5,10 +5,7 @@
 # Pizzaria
 Uma pizzaria precisa de um modelo de banco de dados para o gerenciamento das vendas das pizzas, catalogar os funcionários e medir o rendimento do estabelecimento utilizando a avaliação dos clientes: <br>
 Nessa pizzaria há uma variedade de funcionários:
-- pizzaiolo
-- motoboy
-- caixa
-- garçom
+2 pizzaiolos, 1 copeiro, 1 motoboy, 1 caixa e 1 garçom.
 
 - Os pizzaiolos produzem as pizzas. 1 deles abre a massa, e o outro é responsável pelo recheio, <br> 
 - O motoboy realiza as entregas, <br>
@@ -21,4 +18,4 @@ Nessa pizzaria há uma variedade de funcionários:
   
   Para se fazer o pedido, o cliente deve fazer um cadastro. Nesse cadastro será mostrado as informações sobre seus pedidos, horário , valor e o nome do caixa que o atendeu.<br>
 
-Nessa pizzaria há 2 pizzaiolos, 1 copeiro, 1 motoboy, 1 caixa e 1 garçom.
+
