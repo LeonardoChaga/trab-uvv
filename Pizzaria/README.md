@@ -1,5 +1,5 @@
 # Nome dos integrantes:
-## Leonardo Chaga, Gabriel Muniz, Iago Burini, Mateus Mota
+## Gabriel Muniz, Iago Burini, Leonardo Chaga, Mateus Mota
 
 
 # Pizzaria
